@@ -1,0 +1,173 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 10.0.0.0 for Windows">
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE>About Us</TITLE>
+<STYLE type="text/css">
+<!--
+TD{
+  font-weight : normal;
+  
+  word-spacing : normal;
+  
+  
+  
+  
+
+  font-size : 12px;
+  line-height : 2em;
+}
+-->
+</STYLE>
+<SCRIPT language="JavaScript">
+<!--HPB_SCRIPT_ROV_50
+//
+//  Licensed Materials - Property of IBM
+//  5724I83
+//  (C) Copyright IBM Corp. 1995, 2005 All Rights Reserved.
+//
+
+// HpbImgPreload:
+//
+function HpbImgPreload()
+{
+  var appVer=parseInt(navigator.appVersion);
+  var isNC=false,isN6=false,isIE=false;
+  if (document.all && appVer >= 4) isIE=true; else
+    if (document.getElementById && appVer > 4) isN6=true; else
+      if (document.layers && appVer >= 4) isNC=true;
+  if (isNC||isN6||isIE)
+  {
+    if (document.images)
+    {
+      var imgName = HpbImgPreload.arguments[0];
+      var cnt;
+      swImg[imgName] = new Array;
+      for (cnt = 1; cnt < HpbImgPreload.arguments.length; cnt++)
+      {
+        swImg[imgName][HpbImgPreload.arguments[cnt]] = new Image();
+        swImg[imgName][HpbImgPreload.arguments[cnt]].src = HpbImgPreload.arguments[cnt];
+      }
+    }
+  }
+}
+// HpbImgFind:
+//
+function HpbImgFind(doc, imgName)
+{
+  for (var i=0; i < doc.layers.length; i++)
+  {
+    var img = doc.layers[i].document.images[imgName];
+    if (!img) img = HpbImgFind(doc.layers[i], imgName);
+    if (img) return img;
+  }
+  return null;
+}
+// HpbImgSwap:
+//
+function HpbImgSwap(imgName, imgSrc)
+{
+  var appVer=parseInt(navigator.appVersion);
+  var isNC=false,isN6=false,isIE=false;
+  if (document.all && appVer >= 4) isIE=true; else
+    if (document.getElementById && appVer > 4) isN6=true; else
+      if (document.layers && appVer >= 4) isNC=true;
+  if (isNC||isN6||isIE)
+  {
+    if (document.images)
+    {
+      var img = document.images[imgName];
+      if (!img) img = HpbImgFind(document, imgName);
+      if (img) img.src = imgSrc;
+    }
+  }
+}
+var swImg; swImg=new Array;
+//-->
+</SCRIPT><SCRIPT language="JavaScript">
+<!--HPB_SCRIPT_PLD_50
+HpbImgPreload('_HPB_ROLLOVER1', '../img/Menu_Travelogues(White).gif', '../img/Menu_Travelogues(Orange).gif');
+HpbImgPreload('_HPB_ROLLOVER3', '../img/Menu_PhotoGarally(White).gif', '../img/Menu_PhotoGarally(Orange).gif');
+HpbImgPreload('_HPB_ROLLOVER2', '../img/Menu_Information(White).gif', '../img/Menu_Information(Orange).gif');
+HpbImgPreload('_HPB_ROLLOVER4', '../img/Menu_TopPage(White).gif', '../img/Menu_TopPage(Orange).gif');
+//-->
+</SCRIPT></HEAD>
+<BODY bgcolor="#000000" link="#ff8040" vlink="#ff8040" alink="#ff8040">
+<CENTER>
+<TABLE border="0" width="760" height="371" cellpadding="0" cellspacing="0">
+  <TBODY>
+    <TR>
+      <TD width="160" valign="top" background="../img/Menu_back.jpg"><IMG src="../img/Logo2.gif" width="160" height="95" border="0"><BR>
+      <BR>
+      <IMG src="../img/Menu.gif" width="160" height="40" border="0"><BR>
+      <A href="../index.html" id="_HPB_ROLLOVER4" onmouseout="HpbImgSwap('_HPB_ROLLOVER4', '../img/Menu_TopPage(White).gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER4', '../img/Menu_TopPage(Orange).gif');"><IMG src="../img/Menu_TopPage(White).gif" width="160" height="40" border="0" name="_HPB_ROLLOVER4"></A><BR>
+      <A href="../travelogues/travelogues_top.html" id="_HPB_ROLLOVER1" onmouseout="HpbImgSwap('_HPB_ROLLOVER1', '../img/Menu_Travelogues(White).gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER1', '../img/Menu_Travelogues(Orange).gif');"><IMG src="../img/Menu_Travelogues(White).gif" width="160" height="40" border="0" name="_HPB_ROLLOVER1"></A><A href="../Information/information_index.html" id="_HPB_ROLLOVER2" onmouseout="HpbImgSwap('_HPB_ROLLOVER2', '../img/Menu_Information(White).gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER2', '../img/Menu_Information(Orange).gif');"><IMG src="../img/Menu_Information(White).gif" width="160" height="40" border="0" name="_HPB_ROLLOVER2"></A><A href="../PhotoGarally/PhotoGarally_index.html" id="_HPB_ROLLOVER3" onmouseout="HpbImgSwap('_HPB_ROLLOVER3', '../img/Menu_PhotoGarally(White).gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER3', '../img/Menu_PhotoGarally(Orange).gif');"><IMG src="../img/Menu_PhotoGarally(White).gif" width="160" height="40" border="0" name="_HPB_ROLLOVER3"></A></TD>
+      <TD colspan="9" align="right" valign="top" background="../img/TitleIMG_About_Us2.jpg"><FONT color="#ffffff"><A href="About_Us.html" style="color : white;">About Us</A> | <A href="SpecialThanks.html" style="color : white;">Special Thanks</A> | <A style="color : white;" href="SiteMap.html">Site Map</A></FONT><IMG src="../img/Blank.gif" width="20" height="20" border="0"></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<CENTER>
+<TABLE border="0" width="760" bgcolor="#ffffff" cellspacing="0" cellpadding="0">
+  <TBODY>
+    <TR>
+      <TD width="800" valign="middle" bgcolor="#ffffff" height="80"><B><IMG src="../img/Blank.gif" width="9" height="9" border="0">　<FONT color="#999999">MauruuruBoraBora &gt; About Us</FONT></B><BR>
+      <IMG src="../img/Blank.gif" width="5" height="60" border="0"><IMG src="button111.gif" width="398" height="58" border="0" alt=""><IMG src="../img/Blank.gif" width="9" height="10" border="0"></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<CENTER>
+<TABLE border="0" width="760" bgcolor="#ffffff">
+  <TBODY>
+    <TR>
+      <TD width="80" height="30"><FONT color="#666666"><IMG src="old/画像/1pixel(black).jpg" width="1" height="1" border="0"></FONT><IMG src="../img/Blank.gif" width="80" height="80" border="0"></TD>
+      <TD style="font-size : 11pt;line-height : 15pt;"><IMG src="button7.gif" width="173" height="30" border="0" alt=""><IMG src="../img/Blank.gif" width="20" height="40" border="0"><BR>
+      <BR>
+      <FONT color="#666666">東北の地方都市在住の結婚３年目（2007/02/12時点）の夫婦。<BR>
+家訓は「成せばなる」（「いきあたりばったり」ともいう）<BR>
+      ２人ともコンピュータ関連の仕事をしており、家庭内でときどきマニアックな会話をしている。<BR>
+      （ヨメは旅行前に退職）<BR>
+      サイト構成・画像編集をダンナ（ひでくん）が担当、文章をヨメ（みき）が担当。<BR>
+      <BR>
+      <IMG src="button9.gif" width="124" height="30" border="0" alt=""><BR>
+      <BR>
+      【ひでくん】<BR>
+      旅行大好き。行ったことのない土地はわくわくして楽しい♪<BR>
+もちろん、ドライブも好き。東北道の駅スタンプラリー制覇・１人で九州へドライブ等、あほなこともやっている。<BR>
+      最近、写真にはまる。ボラボラでは写真撮影に夢中になるあまりヨメにしかられる。<BR>
+<BR>
+      【みき】<BR>
+      出不精だけどミーハーなので、旅好きなダンナに連れられどこへでも。<BR>
+      仕事を辞めたのも、このタヒチ旅行に全力投球するためというウワサが・・？<BR>
+      夏の間必死でダイエットに励み、旅行までに５キロの減量に成功♪<BR>
+      2007年1月に第一子を懐妊、ただいまマタニティライフ中です～。<BR>
+      <BR>
+      <BR>
+      <IMG src="button10.gif" width="72" height="30" border="0" alt=""><BR>
+      <BR>
+      このサイトの写真は、Jean Lucさんに取ってもらった以外すべて自分で撮影した写真です。<BR>
+      写真は次の機器で撮影しました。<BR>
+【地上】Canon IXY DIGITAL 800IS　（＋　三脚）<BR>
+【水中】Canon IXY DIGITAL 50 + DiCAPac（デジタルカメラ専用防水ケース）<BR>
+<BR>
+画像は「Adobe PhotoShop Elements 5.0」で編集。<BR>
+      <BR>
+      </FONT></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<CENTER>
+<TABLE border="0" width="760" bgcolor="#000000">
+  <TBODY>
+    <TR bgcolor="#000000">
+      <TD colspan="2" align="right" bgcolor="#000000"><IMG src="../img/Blank.gif" width="20" height="30" border="0"><IMG src="../img/copyright.gif" width="250" height="20" border="0"></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>
