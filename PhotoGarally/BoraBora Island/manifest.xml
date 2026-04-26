@@ -1,0 +1,50 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="classic.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\classic.jpg" />
+  <file dest="classic.swf" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\classic.swf" />
+  <file dest="GalleryMaker.xml" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\GalleryMaker.xml" />
+  <file dest="index.html" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="resources\groups\group.xml" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\media\classic\medium\IMG_1227.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_1227.jpg" />
+  <file dest="resources\media\classic\medium\IMG_1237.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_1237.jpg" />
+  <file dest="resources\media\classic\medium\IMG_1322.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_1322.jpg" />
+  <file dest="resources\media\classic\medium\IMG_1323.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_1323.jpg" />
+  <file dest="resources\media\classic\medium\IMG_1328.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_1328.jpg" />
+  <file dest="resources\media\classic\medium\IMG_1355.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_1355.jpg" />
+  <file dest="resources\media\classic\medium\IMG_1360.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_1360.jpg" />
+  <file dest="resources\media\classic\medium\IMG_1379.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_1379.jpg" />
+  <file dest="resources\media\classic\medium\IMG_1423.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_1423.jpg" />
+  <file dest="resources\media\classic\medium\IMG_1549.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_1549.jpg" />
+  <file dest="resources\media\classic\medium\IMG_1554.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_1554.jpg" />
+  <file dest="resources\media\classic\medium\IMG_1892.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_1892.jpg" />
+  <file dest="resources\media\classic\medium\IMG_1893.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_1893.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2031.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2031.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2051.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2051.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2076.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2076.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2079.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2079.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2097.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2097.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2128.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2128.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2141.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2141.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2396.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2396.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2411.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2411.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2413.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2413.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2421.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2421.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2430.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2430.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2434.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2434.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2454.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2454.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2544.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2544.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2545.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2545.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2562.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2562.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2564.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2564.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2582.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2582.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2583.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2583.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2650.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2650.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2670.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2670.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2672.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2672.jpg" />
+  <file dest="resources\media\classic\medium\IMG_2705.jpg" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\IMG_2705.jpg" />
+  <file dest="resources\styles\style.xml" src="C:\Documents and Settings\ひでと\Local Settings\Temp\Photo Galleries Temp\resources\styles\style.xml" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

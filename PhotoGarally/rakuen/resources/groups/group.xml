@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Classic</galleryName>
+  <galleryDescription>"$$$/flashGalleries/classic/description=A classic style to display your photos one by one. Include captions in your photos to tell a story."</galleryDescription>
+  <creator designer="Amy Casillas and Wayne Jiang" company="Adobe" />
+  <category>Interactive</category>
+  <custom>
+   <pageTitle>地上の楽園</pageTitle>
+   <pageSubtitle>BoraBora Island</pageSubtitle>
+   <emailAddress></emailAddress>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="medium" maxwidth="673" maxheight="505" />
+ </sizes>
+ <media>
+  <item>
+   <title>IMG_2705</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2705.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2696</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2696.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2682</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2682.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2672</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2672.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2600</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2600.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_1777</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_1777.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2079</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2079.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_1653</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_1653.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2051</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2051.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2583</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2583.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_1423</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_1423.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2514</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2514.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2528</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2528.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_1355</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_1355.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2141</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2141.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_1360</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_1360.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_1549</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_1549.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_1594</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_1594.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_1562</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_1562.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_1339</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_1339.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_1403</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_1403.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_1322</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_1322.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_1328</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_1328.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_1554</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_1554.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2128</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2128.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2562</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2562.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2564</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2564.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2411</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2411.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2413</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2413.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>IMG_2434</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/IMG_2434.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

@@ -1,0 +1,43 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="classic.jpg" src="../classic.jpg" />
+  <file dest="classic.swf" src="../classic.swf" />
+  <file dest="GalleryMaker.xml" src="../GalleryMaker.xml" />
+  <file dest="index.html" src="../index.html" />
+  <file dest="manifest.xml" src="../manifest.xml" />
+  <file dest="resources/groups/group.xml" src="../resources/groups/group.xml" />
+  <file dest="resources/media/classic/medium/IMG_1322.jpg" src="../resources/media/classic/medium/IMG_1322.jpg" />
+  <file dest="resources/media/classic/medium/IMG_1328.jpg" src="../resources/media/classic/medium/IMG_1328.jpg" />
+  <file dest="resources/media/classic/medium/IMG_1339.jpg" src="../resources/media/classic/medium/IMG_1339.jpg" />
+  <file dest="resources/media/classic/medium/IMG_1355.jpg" src="../resources/media/classic/medium/IMG_1355.jpg" />
+  <file dest="resources/media/classic/medium/IMG_1360.jpg" src="../resources/media/classic/medium/IMG_1360.jpg" />
+  <file dest="resources/media/classic/medium/IMG_1403.jpg" src="../resources/media/classic/medium/IMG_1403.jpg" />
+  <file dest="resources/media/classic/medium/IMG_1423.jpg" src="../resources/media/classic/medium/IMG_1423.jpg" />
+  <file dest="resources/media/classic/medium/IMG_1549.jpg" src="../resources/media/classic/medium/IMG_1549.jpg" />
+  <file dest="resources/media/classic/medium/IMG_1554.jpg" src="../resources/media/classic/medium/IMG_1554.jpg" />
+  <file dest="resources/media/classic/medium/IMG_1562.jpg" src="../resources/media/classic/medium/IMG_1562.jpg" />
+  <file dest="resources/media/classic/medium/IMG_1594.jpg" src="../resources/media/classic/medium/IMG_1594.jpg" />
+  <file dest="resources/media/classic/medium/IMG_1653.jpg" src="../resources/media/classic/medium/IMG_1653.jpg" />
+  <file dest="resources/media/classic/medium/IMG_1777.jpg" src="../resources/media/classic/medium/IMG_1777.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2051.jpg" src="../resources/media/classic/medium/IMG_2051.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2079.jpg" src="../resources/media/classic/medium/IMG_2079.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2128.jpg" src="../resources/media/classic/medium/IMG_2128.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2141.jpg" src="../resources/media/classic/medium/IMG_2141.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2411.jpg" src="../resources/media/classic/medium/IMG_2411.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2413.jpg" src="../resources/media/classic/medium/IMG_2413.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2434.jpg" src="../resources/media/classic/medium/IMG_2434.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2514.jpg" src="../resources/media/classic/medium/IMG_2514.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2528.jpg" src="../resources/media/classic/medium/IMG_2528.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2562.jpg" src="../resources/media/classic/medium/IMG_2562.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2564.jpg" src="../resources/media/classic/medium/IMG_2564.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2583.jpg" src="../resources/media/classic/medium/IMG_2583.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2600.jpg" src="../resources/media/classic/medium/IMG_2600.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2672.jpg" src="../resources/media/classic/medium/IMG_2672.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2682.jpg" src="../resources/media/classic/medium/IMG_2682.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2696.jpg" src="../resources/media/classic/medium/IMG_2696.jpg" />
+  <file dest="resources/media/classic/medium/IMG_2705.jpg" src="../resources/media/classic/medium/IMG_2705.jpg" />
+  <file dest="resources/styles/style.xml" src="../resources/styles/style.xml" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>
